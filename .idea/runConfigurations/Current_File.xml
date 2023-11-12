@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Current File" type="Application" factoryName="Application" nameIsGenerated="true">
+    <module name="labi" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="BSUIR.IKT.lab3.lab1.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
